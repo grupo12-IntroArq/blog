@@ -2,7 +2,7 @@ body {
   font-family: Jost;
 }
 .display-1 {
-  font-family: 'Bellota Text', display;
+  font-family: 'PT Sans Narrow', sans-serif;
   font-size: 4rem;
   line-height: 1.1;
 }
@@ -682,20 +682,6 @@ body {
 a {
   transition: color 0.6s;
 }
-.cid-t4Udx2yuLI {
-  padding-top: 16rem;
-  padding-bottom: 15rem;
-  background-image: url("../../../assets/images/copia-de-portada-pgina-web-1-1350x600.png");
-}
-.cid-t4Udx2yuLI .mbr-section-title {
-  text-align: center;
-  color: #353535;
-}
-.cid-t4Udx2yuLI .mbr-text,
-.cid-t4Udx2yuLI .mbr-section-btn {
-  text-align: center;
-  color: #5f6366;
-}
 .cid-sFGMsvHDIa .navbar-dropdown {
   position: relative !important;
 }
@@ -797,7 +783,7 @@ a {
   min-height: 70px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
-  background: rgba(255, 255, 255, 0.6);
+  background: rgba(255, 255, 255, 0.9);
 }
 .cid-sFGMsvHDIa .navbar.opened {
   transition: all 0.3s;
@@ -1038,6 +1024,20 @@ a {
     left: -1rem;
   }
 }
+.cid-t4VpcGzyGS {
+  padding-top: 11rem;
+  padding-bottom: 5rem;
+  background-image: url("../../../assets/images/833515-2000x1125.jpg");
+}
+.cid-t4VpcGzyGS .mbr-section-title {
+  text-align: center;
+  color: #353535;
+}
+.cid-t4VpcGzyGS .mbr-text,
+.cid-t4VpcGzyGS .mbr-section-btn {
+  text-align: center;
+  color: #5f6366;
+}
 .cid-t4TTeiR7Hu {
   padding-top: 2rem;
   padding-bottom: 1rem;
@@ -1230,7 +1230,7 @@ a {
   min-height: 70px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
-  background: rgba(255, 255, 255, 0.6);
+  background: rgba(255, 255, 255, 0.9);
 }
 .cid-sFGMsvHDIa .navbar.opened {
   transition: all 0.3s;
@@ -1754,7 +1754,7 @@ a {
   min-height: 70px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
-  background: rgba(255, 255, 255, 0.6);
+  background: rgba(255, 255, 255, 0.9);
 }
 .cid-t4UoWdQ5j8 .navbar.opened {
   transition: all 0.3s;
@@ -2223,7 +2223,7 @@ a {
   min-height: 70px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
-  background: rgba(255, 255, 255, 0.6);
+  background: rgba(255, 255, 255, 0.9);
 }
 .cid-t4Up6M9fSX .navbar.opened {
   transition: all 0.3s;
@@ -2725,7 +2725,7 @@ a {
   min-height: 70px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
-  background: rgba(255, 255, 255, 0.6);
+  background: rgba(255, 255, 255, 0.9);
 }
 .cid-t4UpMFp3St .navbar.opened {
   transition: all 0.3s;
