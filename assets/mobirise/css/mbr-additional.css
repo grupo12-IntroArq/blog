@@ -797,7 +797,7 @@ a {
   min-height: 70px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
-  background: #ffffff;
+  background: rgba(255, 255, 255, 0.6);
 }
 .cid-sFGMsvHDIa .navbar.opened {
   transition: all 0.3s;
@@ -1230,7 +1230,7 @@ a {
   min-height: 70px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
-  background: #ffffff;
+  background: rgba(255, 255, 255, 0.6);
 }
 .cid-sFGMsvHDIa .navbar.opened {
   transition: all 0.3s;
@@ -1648,6 +1648,11 @@ a {
     padding: 2rem;
   }
 }
+.cid-t4VlqbpwFu {
+  padding-top: 0rem;
+  padding-bottom: 3rem;
+  background-color: #ffffff;
+}
 .cid-t4UoWdQ5j8 .navbar-dropdown {
   position: relative !important;
 }
@@ -1749,7 +1754,7 @@ a {
   min-height: 70px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
-  background: #ffffff;
+  background: rgba(255, 255, 255, 0.6);
 }
 .cid-t4UoWdQ5j8 .navbar.opened {
   transition: all 0.3s;
@@ -2112,6 +2117,11 @@ a {
 .cid-t4UZVZXsos img {
   width: 100%;
 }
+.cid-t4VlCtoGrc {
+  padding-top: 0rem;
+  padding-bottom: 3rem;
+  background-color: #ffffff;
+}
 .cid-t4Up6M9fSX .navbar-dropdown {
   position: relative !important;
 }
@@ -2213,7 +2223,7 @@ a {
   min-height: 70px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
-  background: #ffffff;
+  background: rgba(255, 255, 255, 0.6);
 }
 .cid-t4Up6M9fSX .navbar.opened {
   transition: all 0.3s;
@@ -2609,6 +2619,11 @@ a {
 .cid-t4V634IYB2 img {
   width: 100%;
 }
+.cid-t4VlJj47ej {
+  padding-top: 0rem;
+  padding-bottom: 3rem;
+  background-color: #ffffff;
+}
 .cid-t4UpMFp3St .navbar-dropdown {
   position: relative !important;
 }
@@ -2710,7 +2725,7 @@ a {
   min-height: 70px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
-  background: #ffffff;
+  background: rgba(255, 255, 255, 0.6);
 }
 .cid-t4UpMFp3St .navbar.opened {
   transition: all 0.3s;
@@ -2989,4 +3004,9 @@ a {
   border-color: #9fdbf8;
   border-radius: 4px;
   background-color: #fafafa;
+}
+.cid-t4VlRz3Sun {
+  padding-top: 0rem;
+  padding-bottom: 3rem;
+  background-color: #ffffff;
 }
